@@ -40,7 +40,7 @@ for (let btn of buttons) {
       letter = '\n'
     }
 
-    if (letter == '<---') {
+    if (letter == '<--') {
       letter = ''
       phrase = phrase.substring(0, phrase.length - 1)
     }
