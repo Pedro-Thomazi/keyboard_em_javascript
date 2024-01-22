@@ -55,7 +55,6 @@ body {
 .numbers button {
   background-color: #464646;
   color: #fff;
-  border: 1px solid #ffffff;
 }
 
 button#btnBackspace,
